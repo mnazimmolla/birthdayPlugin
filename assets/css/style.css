@@ -1,0 +1,9 @@
+#d29, #d30, #d31 {
+	display:none;
+}
+.clearfix {
+	clear: both;
+}
+.breaker {
+	margin-top: 100px;
+}
